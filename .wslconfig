@@ -1,0 +1,4 @@
+[wsl2]
+memory=2GB           # Limita la cantidad de memoria a 4GB
+processors=2         # Limita el uso a 2 núcleos de CPU
+swap=2GB             # Define el tamaño del archivo de intercambio (swap) a 2GB
